@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Ojha
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...MCA
+- 🌱 I’m currently learning ...Full Stack Devs
 - 💞️ I’m looking to collaborate on ...Some Project Based On Full Stack.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
