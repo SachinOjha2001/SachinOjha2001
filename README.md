@@ -3,12 +3,12 @@
 - 💻 Passionate about full-stack development, web technologies, and open-source contribution.
 - 📚 I love building projects that solve real-life problems and help me learn new technologies.
 - 💞️ I’m looking to collaborate on ...Some Project Based On Full Stack.
-- ⚡ Fun fact: ...💡 I once spent 3 hours fixing a bug, only to realize it was a missing semicolon.
-📌 Currently Learning
+- ⚡ Fun fact: ...💡 I once spent 3 hours fixing a bug, only to realize it was a missing semicolon.<br>
+📌 Currently Learning<br>
     .☁️ Cloud basics (Git, GitHub Codespaces)<br>
     .🧠 AI and ML fundamentals<br>
     . ⚛️ Deep dive into React.js and backend API design<br>
-📬 Let's Connect
+📬 Let's Connect<br>
    🌐 Portfolio: coming soon<br>
    📫 Email: sachinojha2001@gmail.com<br>
    💬 LinkedIn / GitHub: @SachinOjha2001<br>
