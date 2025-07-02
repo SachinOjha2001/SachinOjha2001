@@ -13,7 +13,8 @@
 📬 Let's Connect<br>
    🌐 Portfolio: coming soon<br>
    📫 Email: sachinojha2001@gmail.com<br>
-   💬 LinkedIn / GitHub: @SachinOjha2001<br>
+   💬 LinkedIn:<br>
+   GitHub: @SachinOjha2001<br>
 <!---
 SachinOjha2001/SachinOjha2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
