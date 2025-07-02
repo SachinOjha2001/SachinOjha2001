@@ -1,11 +1,17 @@
-- 👋 Hi, I’m Sachin Ojha
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Full Stack Devs
+- 👋 Hi there, I'm Sachin Kumar Ojha!
+- 🎓 I'm currently pursuing my Master of Computer Applications (M.C.A.) at The Oxford College of Engineering, Bengaluru.
+- 💻 Passionate about full-stack development, web technologies, and open-source contribution.
+- 📚 I love building projects that solve real-life problems and help me learn new technologies.
 - 💞️ I’m looking to collaborate on ...Some Project Based On Full Stack.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: ...💡 I once spent 3 hours fixing a bug, only to realize it was a missing semicolon.
+📌 Currently Learning
+    .☁️ Cloud basics (Git, GitHub Codespaces)<br>
+    .🧠 AI and ML fundamentals<br>
+    . ⚛️ Deep dive into React.js and backend API design<br>
+📬 Let's Connect
+   🌐 Portfolio: coming soon<br>
+   📫 Email: sachinojha2001@gmail.com<br>
+   💬 LinkedIn / GitHub: @SachinOjha2001<br>
 <!---
 SachinOjha2001/SachinOjha2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
