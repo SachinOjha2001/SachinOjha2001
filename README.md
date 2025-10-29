@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Sachin Kumar Ojha!
-- 🎓 I'm currently pursuing my Master of Computer Applications (M.C.A.) at The Oxford College of Engineering, Bengaluru.
+- 🎓 I'm Completed my Master of Computer Applications (M.C.A.) at The Oxford College of Engineering, Bengaluru.
 - 💻 Passionate about full-stack development, web technologies, and open-source contribution.
 - 📚 I love building projects that solve real-life problems and help me learn new technologies.
 - 💞️ I’m looking to collaborate on ...Some Project Based On Full Stack.
